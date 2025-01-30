@@ -1,6 +1,9 @@
 # java-webapp-101
 新人研修向けのサンプルWebアプリケーション (Servlet &amp; JSP)
 
+## Overview
+A sample web application for new employee training, built using Servlet & JSP.
+
 ## デモ
 
 ![](img/20190502_1.png)
